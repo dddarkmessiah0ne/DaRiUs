@@ -1,0 +1,8 @@
+# darius ----most powerful ddosing tool on the planet
+## Created by dddarkmessiah0ne
+###  Date of Completion:Thursday July 26, 2018, 4:20 am
+Instructions:
+1)Download or Transfer file
+2)Open Terminal and type these commands:
+gcc darius.c -o darius
+ USAGE: ./darius www.fakesite.com 80
